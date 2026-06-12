@@ -23,7 +23,9 @@ This profile README is a simple hub for the live GitHub Pages apps under my acco
 - `math-block-academy` - [Open app](https://buicongnguyen.github.io/math-block-academy/) - [Repository](https://github.com/buicongnguyen/math-block-academy)
 - `hint-trap` - [Open app](https://buicongnguyen.github.io/hint-trap/) - [Repository](https://github.com/buicongnguyen/hint-trap)
 - `Games` - [Open app](https://buicongnguyen.github.io/Games/) - [Repository](https://github.com/buicongnguyen/Games)  
-  Contains games.
+  Sky Drill (version 1) at the root, plus Sky Drill 2 under [skydrill2/](https://buicongnguyen.github.io/Games/skydrill2/).
+- `SkyDrill2` - [Open app](https://buicongnguyen.github.io/SkyDrill2/) - [Repository](https://github.com/buicongnguyen/SkyDrill2)  
+  Sky Drill 2: physics-correct rebuild of the Sky Drill campaign — exact trajectory preview, real ballistics, structural collapse, full story.
 - `LichAm` - [Open app](https://buicongnguyen.github.io/LichAm/) - [Repository](https://github.com/buicongnguyen/LichAm)
 
 ## Notes
