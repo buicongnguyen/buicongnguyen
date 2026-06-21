@@ -14,6 +14,8 @@ This profile README is a simple hub for the live GitHub Pages apps under my acco
   A Queens-inspired garden puzzle game playable in the browser.
 - `cloud-pop-express` - [Open app](https://buicongnguyen.github.io/cloud-pop-express/) - [Repository](https://github.com/buicongnguyen/cloud-pop-express)  
   Mobile-friendly browser game with GitHub Pages deployment.
+- `pixel-life-journey-v2` - [Open game](https://buicongnguyen.github.io/pixel-life-journey-v2/?v=86a2c88) - [Repository](https://github.com/buicongnguyen/pixel-life-journey-v2)
+  Pixel Life Journey v2: mobile-friendly 2D life simulation with life stages, family tree, assets, training, pets, and character movement.
 - `study_computer_science` - [Open app](https://buicongnguyen.github.io/study_computer_science/) - [Repository](https://github.com/buicongnguyen/study_computer_science)  
   Computer science study app with flashcards and quiz mode.
 - `sidewalk-iced-tea` - [Open app](https://buicongnguyen.github.io/sidewalk-iced-tea/) - [Repository](https://github.com/buicongnguyen/sidewalk-iced-tea)  
