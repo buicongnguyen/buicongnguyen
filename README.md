@@ -1,36 +1,35 @@
 # Bui Cong Nguyen
 
-This profile README is a simple hub for the live GitHub Pages apps under my account, so I can open and test them quickly from one place.
+Senior engineering leader working across robotics simulation, AI tools, browser apps, and practical software systems.
 
-## Live GitHub Pages Apps
+Sr. Manager at Argosdyne. Former Sr. Principal Software Engineer at Cadence Design Systems and Staff Software Engineer at Samsung Electronics.
 
-- `ko-en-live-translator` - [Open app](https://buicongnguyen.github.io/ko-en-live-translator/) - [Repository](https://github.com/buicongnguyen/ko-en-live-translator)  
-  Live Korean-to-English translator with a GitHub Pages demo and optional GPU backend.
-- `rambo_game` - [Open app](https://buicongnguyen.github.io/rambo_game/) - [Repository](https://github.com/buicongnguyen/rambo_game)  
-  Retro commando run-and-gun prototype with GitHub Pages deployment.
-- `rambo_game_v2` - [Open app](https://buicongnguyen.github.io/rambo_game_v2/) - [Repository](https://github.com/buicongnguyen/rambo_game_v2)  
-  Operation Iron Vengeance: the version 2 rebuild of rambo_game on an arcade physics engine.
-- `queens-garden` - [Open app](https://buicongnguyen.github.io/queens-garden/) - [Repository](https://github.com/buicongnguyen/queens-garden)  
-  A Queens-inspired garden puzzle game playable in the browser.
-- `cloud-pop-express` - [Open app](https://buicongnguyen.github.io/cloud-pop-express/) - [Repository](https://github.com/buicongnguyen/cloud-pop-express)  
-  Mobile-friendly browser game with GitHub Pages deployment.
-- `pixel-life-journey-v2` - [Open game](https://buicongnguyen.github.io/pixel-life-journey-v2/?v=86a2c88) - [Repository](https://github.com/buicongnguyen/pixel-life-journey-v2)
-  Pixel Life Journey v2: mobile-friendly 2D life simulation with life stages, family tree, assets, training, pets, and character movement.
-- `study_computer_science` - [Open app](https://buicongnguyen.github.io/study_computer_science/) - [Repository](https://github.com/buicongnguyen/study_computer_science)  
-  Computer science study app with flashcards and quiz mode.
-- `sidewalk-iced-tea` - [Open app](https://buicongnguyen.github.io/sidewalk-iced-tea/) - [Repository](https://github.com/buicongnguyen/sidewalk-iced-tea)  
-  Playable Sidewalk Iced Tea browser game prototype.
-- `sidewalk-iced-tea-v2` - [Open app](https://buicongnguyen.github.io/sidewalk-iced-tea-v2/) - [Repository](https://github.com/buicongnguyen/sidewalk-iced-tea-v2)  
-  Trà Đá Vỉa Hè version 2: steering physics, A* pathfinding, brew-and-serve pipeline, day cycle.
-- `math-block-academy` - [Open app](https://buicongnguyen.github.io/math-block-academy/) - [Repository](https://github.com/buicongnguyen/math-block-academy)
-- `hint-trap` - [Open app](https://buicongnguyen.github.io/hint-trap/) - [Repository](https://github.com/buicongnguyen/hint-trap)
-- `Games` - [Open app](https://buicongnguyen.github.io/Games/) - [Repository](https://github.com/buicongnguyen/Games)  
-  Sky Drill (version 1) at the root, plus Sky Drill 2 under [skydrill2/](https://buicongnguyen.github.io/Games/skydrill2/).
-- `SkyDrill2` - [Open app](https://buicongnguyen.github.io/SkyDrill2/) - [Repository](https://github.com/buicongnguyen/SkyDrill2)  
-  Sky Drill 2: physics-correct rebuild of the Sky Drill campaign — exact trajectory preview, real ballistics, structural collapse, full story.
-- `LichAm` - [Open app](https://buicongnguyen.github.io/LichAm/) - [Repository](https://github.com/buicongnguyen/LichAm)
+[Personal site](https://buicongnguyen.github.io/) | [Isaac Sim Learning Hub](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repositories](https://github.com/buicongnguyen?tab=repositories)
 
-## Notes
+## Current Focus
 
-- This list was generated from the public repositories in my account that currently respond on `github.io`.
-- I can add more sections later for desktop apps, libraries, robotics projects, or highlighted repos.
+- Isaac Sim and Isaac Lab learning plans for robotics simulation, ROS 2, sensors, reinforcement learning, and reproducible demos.
+- Practical AI and robotics tools, including translation, path planning, simulation workflows, and robot-learning references.
+- Browser-based learning apps and interactive prototypes with GitHub Pages deployment.
+
+## Featured Work
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| Isaac Sim Learning Hub | Public roadmap for Isaac Sim, Isaac Lab, humanoid RL resources, and the Hiking in the Wild reproduction track. | [Site](https://buicongnguyen.github.io/isaac-sim-learning-plan/) / [Repo](https://github.com/buicongnguyen/isaac-sim-learning-plan) |
+| KO-EN Live Translator | Live Korean-to-English translator with a GitHub Pages demo and optional GPU backend. | [App](https://buicongnguyen.github.io/ko-en-live-translator/) / [Repo](https://github.com/buicongnguyen/ko-en-live-translator) |
+| CS Study Lab v3 | SM-2 spaced repetition flashcards, quizzes, progress dashboard, and offline PWA support. | [App](https://buicongnguyen.github.io/study_computer_science_v3/) / [Repo](https://github.com/buicongnguyen/study_computer_science_v3) |
+| Pixel Life Journey v2 | Bright pixel-art life simulation with life stages, family tree, assets, training, pets, and movement. | [Game](https://buicongnguyen.github.io/pixel-life-journey-v2/) / [Repo](https://github.com/buicongnguyen/pixel-life-journey-v2) |
+
+## Project Areas
+
+- Robotics and planning: [Isaac Sim Learning Plan](https://github.com/buicongnguyen/isaac-sim-learning-plan), [A* Path Planning Python](https://github.com/buicongnguyen/pathPlanningA_Star_Python)
+- Learning tools: [Study Computer Science v3](https://github.com/buicongnguyen/study_computer_science_v3), [Study Computer Science](https://github.com/buicongnguyen/study_computer_science)
+- Vietnamese apps: [LichAm v2](https://github.com/buicongnguyen/LichAm_v2), [Giapha v2](https://github.com/buicongnguyen/Giapha_v2)
+- Browser games: [Operation Iron Vengeance v3](https://github.com/buicongnguyen/rambo_game_v3), [Sidewalk Iced Tea v3](https://github.com/buicongnguyen/sidewalk-iced-tea-v3), [SkyDrill2](https://github.com/buicongnguyen/SkyDrill2), [Queens Garden](https://github.com/buicongnguyen/queens-garden)
+
+## Quick Links
+
+- Personal site: https://buicongnguyen.github.io/
+- GitHub profile: https://github.com/buicongnguyen
+- All public repositories: https://github.com/buicongnguyen?tab=repositories
