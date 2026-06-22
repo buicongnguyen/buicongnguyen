@@ -1,14 +1,14 @@
 # Bui Cong Nguyen
 
-PhD computer scientist and senior/principal software engineer working across computer vision, AI/NPU systems, EDA routing, machine vision inspection, robotics simulation, and practical software systems.
+PhD computer scientist and senior/principal software engineer working across NDT ultrasonic inspection, computer vision, AI/NPU systems, EDA routing, machine vision inspection, robotics simulation, and practical software systems.
 
-15+ years of experience building high-performance vision and AI systems. Current public learning work focuses on Isaac Sim, Isaac Lab, robot learning, and reproducible simulation demos.
+15+ years of experience building high-performance inspection, vision, and AI systems. Current public learning work focuses on Isaac Sim, Isaac Lab, robot learning, and reproducible simulation demos.
 
 [Personal site](https://buicongnguyen.github.io/) | [LinkedIn](https://www.linkedin.com/in/cong-nguyen-bui/) | [Isaac Sim Learning Hub](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repositories](https://github.com/buicongnguyen?tab=repositories)
 
 ## Current Focus
 
-- Computer vision, AI/NPU systems, EDA routing, machine vision inspection, and high-performance C++ / CUDA / Python software.
+- NDT ultrasonic inspection, computer vision, AI/NPU systems, EDA routing, machine vision inspection, and high-performance C++ / CUDA / Python software.
 - Isaac Sim and Isaac Lab learning plans for robotics simulation, ROS 2, sensors, reinforcement learning, and reproducible demos.
 - Practical AI and robotics tools, including translation, path planning, simulation workflows, and robot-learning references.
 - Browser-based learning apps and interactive prototypes with GitHub Pages deployment.
