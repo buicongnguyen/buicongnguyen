@@ -1,13 +1,14 @@
 # Bui Cong Nguyen
 
-Senior engineering leader working across robotics simulation, AI tools, browser apps, and practical software systems.
+PhD computer scientist and senior/principal software engineer working across computer vision, AI/NPU systems, EDA routing, machine vision inspection, robotics simulation, and practical software systems.
 
-Sr. Manager at Argosdyne. Former Sr. Principal Software Engineer at Cadence Design Systems and Staff Software Engineer at Samsung Electronics.
+15+ years of experience building high-performance vision and AI systems. Current public learning work focuses on Isaac Sim, Isaac Lab, robot learning, and reproducible simulation demos.
 
-[Personal site](https://buicongnguyen.github.io/) | [Isaac Sim Learning Hub](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repositories](https://github.com/buicongnguyen?tab=repositories)
+[Personal site](https://buicongnguyen.github.io/) | [LinkedIn](https://www.linkedin.com/in/cong-nguyen-bui/) | [Isaac Sim Learning Hub](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repositories](https://github.com/buicongnguyen?tab=repositories)
 
 ## Current Focus
 
+- Computer vision, AI/NPU systems, EDA routing, machine vision inspection, and high-performance C++ / CUDA / Python software.
 - Isaac Sim and Isaac Lab learning plans for robotics simulation, ROS 2, sensors, reinforcement learning, and reproducible demos.
 - Practical AI and robotics tools, including translation, path planning, simulation workflows, and robot-learning references.
 - Browser-based learning apps and interactive prototypes with GitHub Pages deployment.
@@ -31,5 +32,6 @@ Sr. Manager at Argosdyne. Former Sr. Principal Software Engineer at Cadence Desi
 ## Quick Links
 
 - Personal site: https://buicongnguyen.github.io/
+- LinkedIn: https://www.linkedin.com/in/cong-nguyen-bui/
 - GitHub profile: https://github.com/buicongnguyen
 - All public repositories: https://github.com/buicongnguyen?tab=repositories
