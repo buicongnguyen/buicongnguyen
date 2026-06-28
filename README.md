@@ -20,7 +20,7 @@ PhD computer scientist and senior/principal software engineer working across NDT
 | Isaac Sim Learning Hub | Public roadmap for Isaac Sim, Isaac Lab, humanoid RL resources, and the Hiking in the Wild reproduction track. | [Site](https://buicongnguyen.github.io/isaac-sim-learning-plan/) / [Repo](https://github.com/buicongnguyen/isaac-sim-learning-plan) |
 | KO-EN Live Translator | Live Korean-to-English translator with a GitHub Pages demo and optional GPU backend. | [App](https://buicongnguyen.github.io/ko-en-live-translator/) / [Repo](https://github.com/buicongnguyen/ko-en-live-translator) |
 | CS Study Lab v3 | SM-2 spaced repetition flashcards, quizzes, progress dashboard, and offline PWA support. | [App](https://buicongnguyen.github.io/study_computer_science_v3/) / [Repo](https://github.com/buicongnguyen/study_computer_science_v3) |
-| Pixel Life Journey v2 | Bright pixel-art life simulation with life stages, family tree, assets, training, pets, and movement. | [Game](https://buicongnguyen.github.io/pixel-life-journey-v2/) / [Repo](https://github.com/buicongnguyen/pixel-life-journey-v2) |
+| Pixel Life Journey v3 | The newest build: v2's life sim plus a day/night theme toggle, a wide landscape layout, an analog thumb-stick, and a Collect interaction with sky-area feedback. | [Game](https://buicongnguyen.github.io/pixel-life-journey-v3/) / [Repo](https://github.com/buicongnguyen/pixel-life-journey-v3) |
 
 ## All Live Pages and Apps
 
@@ -32,6 +32,7 @@ Versioned projects are listed separately because v1, v2, and v3 are different re
 | Isaac Sim Learning Plan | [Open](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repo](https://github.com/buicongnguyen/isaac-sim-learning-plan) |
 | Pixel Life Journey | [Open](https://buicongnguyen.github.io/pixel-life-journey/) | [Repo](https://github.com/buicongnguyen/pixel-life-journey) |
 | Pixel Life Journey v2 | [Open](https://buicongnguyen.github.io/pixel-life-journey-v2/) | [Repo](https://github.com/buicongnguyen/pixel-life-journey-v2) |
+| Pixel Life Journey v3 | [Open](https://buicongnguyen.github.io/pixel-life-journey-v3/) | [Repo](https://github.com/buicongnguyen/pixel-life-journey-v3) |
 | Operation Iron Vengeance / Rambo | [Open](https://buicongnguyen.github.io/rambo_game/) | [Repo](https://github.com/buicongnguyen/rambo_game) |
 | Operation Iron Vengeance v2 | [Open](https://buicongnguyen.github.io/rambo_game_v2/) | [Repo](https://github.com/buicongnguyen/rambo_game_v2) |
 | Operation Iron Vengeance v3 | [Open](https://buicongnguyen.github.io/rambo_game_v3/) | [Repo](https://github.com/buicongnguyen/rambo_game_v3) |
