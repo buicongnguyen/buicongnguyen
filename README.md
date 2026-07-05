@@ -21,7 +21,7 @@ PhD computer scientist and senior/principal software engineer working across NDT
 | KO-EN Live Translator | Live Korean-to-English translator with a GitHub Pages demo and optional GPU backend. | [App](https://buicongnguyen.github.io/ko-en-live-translator/) / [Repo](https://github.com/buicongnguyen/ko-en-live-translator) |
 | CS Study Lab v3 | SM-2 spaced repetition flashcards, quizzes, progress dashboard, and offline PWA support. | [App](https://buicongnguyen.github.io/study_computer_science_v3/) / [Repo](https://github.com/buicongnguyen/study_computer_science_v3) |
 | Pixel Life Journey v3 | The newest build: v2's life sim plus a day/night theme toggle, a wide landscape layout, an analog thumb-stick, and a Collect interaction with sky-area feedback. | [Game](https://buicongnguyen.github.io/pixel-life-journey-v3/) / [Repo](https://github.com/buicongnguyen/pixel-life-journey-v3) |
-| Engineering Study Hubs | Assessment-prep question banks (single-answer, multi-select, and step-ordering formats) for software engineering, C#/.NET, and systems/hardware (DSP, GPU kernels, embedded firmware). | [Software Eng](https://buicongnguyen.github.io/Outlier_coding/) / [C#/.NET](https://buicongnguyen.github.io/Outlier_csharp/) / [Systems & HW](https://buicongnguyen.github.io/Outlier_hardware/) |
+| Engineering Study Hubs | Assessment-prep question banks (single-answer, multi-select, and step-ordering formats) for software engineering, C#/.NET, C++, systems design, systems/hardware (DSP, embedded firmware), and GPU kernel optimization. | [Software Eng](https://buicongnguyen.github.io/Outlier_coding/) / [C#/.NET](https://buicongnguyen.github.io/Outlier_csharp/) / [C++](https://buicongnguyen.github.io/Outlier_cpp/) / [Systems](https://buicongnguyen.github.io/Outlier_systems/) / [Systems & HW](https://buicongnguyen.github.io/Outlier_hardware/) / [GPU Kernels](https://buicongnguyen.github.io/Mercor_cuda/) |
 
 ## All Live Pages and Apps
 
@@ -44,8 +44,12 @@ Versioned projects are listed separately because v1, v2, and v3 are different re
 | CS Study Lab v3 | [Open](https://buicongnguyen.github.io/study_computer_science_v3/) | [Repo](https://github.com/buicongnguyen/study_computer_science_v3) |
 | Software Engineering Study Hub | [Open](https://buicongnguyen.github.io/Outlier_coding/) | [Repo](https://github.com/buicongnguyen/Outlier_coding) |
 | C# & .NET Study Hub | [Open](https://buicongnguyen.github.io/Outlier_csharp/) | [Repo](https://github.com/buicongnguyen/Outlier_csharp) |
+| C++ Study Hub | [Open](https://buicongnguyen.github.io/Outlier_cpp/) | [Repo](https://github.com/buicongnguyen/Outlier_cpp) |
+| Systems Study Hub | [Open](https://buicongnguyen.github.io/Outlier_systems/) | [Repo](https://github.com/buicongnguyen/Outlier_systems) |
 | Systems & Hardware Study Hub | [Open](https://buicongnguyen.github.io/Outlier_hardware/) | [Repo](https://github.com/buicongnguyen/Outlier_hardware) |
+| GPU Kernel Optimization Study Hub | [Open](https://buicongnguyen.github.io/Mercor_cuda/) | [Repo](https://github.com/buicongnguyen/Mercor_cuda) |
 | Interview Practice Q&A (Deep Learning, OS, Embedded, NPU) | [Open](https://buicongnguyen.github.io/interview-practice.html) | [Repo](https://github.com/buicongnguyen/buicongnguyen.github.io) |
+| AI Accelerator & Compiler Study Page (NPU/VPU/LPU, LLVM/MLIR) | [Open](https://buicongnguyen.github.io/npu.html) | [Repo](https://github.com/buicongnguyen/buicongnguyen.github.io) |
 | LichAm | [Open](https://buicongnguyen.github.io/LichAm/) | [Repo](https://github.com/buicongnguyen/LichAm) |
 | LichAm v2 | [Open](https://buicongnguyen.github.io/LichAm_v2/) | [Repo](https://github.com/buicongnguyen/LichAm_v2) |
 | Giapha | [Open](https://buicongnguyen.github.io/Giapha/) | [Repo](https://github.com/buicongnguyen/Giapha) |
@@ -64,7 +68,7 @@ Versioned projects are listed separately because v1, v2, and v3 are different re
 
 - Robotics and planning: [Isaac Sim Learning Plan](https://github.com/buicongnguyen/isaac-sim-learning-plan), [A* Path Planning Python](https://github.com/buicongnguyen/pathPlanningA_Star_Python)
 - Learning tools: [Study Computer Science v3](https://github.com/buicongnguyen/study_computer_science_v3), [Study Computer Science](https://github.com/buicongnguyen/study_computer_science)
-- Assessment prep: [Software Engineering Study Hub](https://github.com/buicongnguyen/Outlier_coding), [C# & .NET Study Hub](https://github.com/buicongnguyen/Outlier_csharp), [Systems & Hardware Study Hub](https://github.com/buicongnguyen/Outlier_hardware)
+- Assessment prep: [Software Engineering Study Hub](https://github.com/buicongnguyen/Outlier_coding), [C# & .NET Study Hub](https://github.com/buicongnguyen/Outlier_csharp), [C++ Study Hub](https://github.com/buicongnguyen/Outlier_cpp), [Systems Study Hub](https://github.com/buicongnguyen/Outlier_systems), [Systems & Hardware Study Hub](https://github.com/buicongnguyen/Outlier_hardware), [GPU Kernel Optimization Study Hub](https://github.com/buicongnguyen/Mercor_cuda)
 - Vietnamese apps: [LichAm](https://github.com/buicongnguyen/LichAm), [LichAm v2](https://github.com/buicongnguyen/LichAm_v2), [Giapha](https://github.com/buicongnguyen/Giapha), [Giapha v2](https://github.com/buicongnguyen/Giapha_v2)
 - Browser games: [Operation Iron Vengeance](https://github.com/buicongnguyen/rambo_game), [v2](https://github.com/buicongnguyen/rambo_game_v2), [v3](https://github.com/buicongnguyen/rambo_game_v3), [Sidewalk Iced Tea](https://github.com/buicongnguyen/sidewalk-iced-tea), [v2](https://github.com/buicongnguyen/sidewalk-iced-tea-v2), [v3](https://github.com/buicongnguyen/sidewalk-iced-tea-v3), [SkyDrill2](https://github.com/buicongnguyen/SkyDrill2), [Queens Garden](https://github.com/buicongnguyen/queens-garden)
 
