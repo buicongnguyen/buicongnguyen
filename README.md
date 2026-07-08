@@ -4,7 +4,7 @@ PhD computer scientist and senior/principal software engineer working across NDT
 
 15+ years of experience building high-performance inspection, vision, and AI systems. Current public learning work focuses on Isaac Sim, Isaac Lab, robot learning, and reproducible simulation demos.
 
-[Personal site](https://buicongnguyen.github.io/) | [LinkedIn](https://www.linkedin.com/in/cong-nguyen-bui/) | [Isaac Sim Learning Hub](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repositories](https://github.com/buicongnguyen?tab=repositories)
+[Personal site](https://buicongnguyen.github.io/) | [NPU Study Guide](https://buicongnguyen.github.io/NPU/) | [LinkedIn](https://www.linkedin.com/in/cong-nguyen-bui/) | [Isaac Sim Learning Hub](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repositories](https://github.com/buicongnguyen?tab=repositories)
 
 ## Current Focus
 
@@ -17,6 +17,7 @@ PhD computer scientist and senior/principal software engineer working across NDT
 
 | Project | What it is | Links |
 | --- | --- | --- |
+| NPU, VPU & LPU Study Guide | AI accelerator and compiler study guide covering NPU/VPU/LPU/GPU/TPU tradeoffs, model deployment, LLVM/MLIR, Tenstorrent notes, and interview practice. | [Site](https://buicongnguyen.github.io/NPU/) / [Repo](https://github.com/buicongnguyen/NPU) |
 | Isaac Sim Learning Hub | Public roadmap for Isaac Sim, Isaac Lab, humanoid RL resources, and the Hiking in the Wild reproduction track. | [Site](https://buicongnguyen.github.io/isaac-sim-learning-plan/) / [Repo](https://github.com/buicongnguyen/isaac-sim-learning-plan) |
 | KO-EN Live Translator | Live Korean-to-English translator with a GitHub Pages demo and optional GPU backend. | [App](https://buicongnguyen.github.io/ko-en-live-translator/) / [Repo](https://github.com/buicongnguyen/ko-en-live-translator) |
 | CS Study Lab v3 | SM-2 spaced repetition flashcards, quizzes, progress dashboard, and offline PWA support. | [App](https://buicongnguyen.github.io/study_computer_science_v3/) / [Repo](https://github.com/buicongnguyen/study_computer_science_v3) |
@@ -30,6 +31,7 @@ Versioned projects are listed separately because v1, v2, and v3 are different re
 | Project | Live link | Repository |
 | --- | --- | --- |
 | Personal portfolio | [Open](https://buicongnguyen.github.io/) | [Repo](https://github.com/buicongnguyen/buicongnguyen.github.io) |
+| NPU, VPU & LPU Study Guide | [Open](https://buicongnguyen.github.io/NPU/) | [Repo](https://github.com/buicongnguyen/NPU) |
 | Isaac Sim Learning Plan | [Open](https://buicongnguyen.github.io/isaac-sim-learning-plan/) | [Repo](https://github.com/buicongnguyen/isaac-sim-learning-plan) |
 | Pixel Life Journey | [Open](https://buicongnguyen.github.io/pixel-life-journey/) | [Repo](https://github.com/buicongnguyen/pixel-life-journey) |
 | Pixel Life Journey v2 | [Open](https://buicongnguyen.github.io/pixel-life-journey-v2/) | [Repo](https://github.com/buicongnguyen/pixel-life-journey-v2) |
@@ -48,8 +50,7 @@ Versioned projects are listed separately because v1, v2, and v3 are different re
 | Systems Study Hub | [Open](https://buicongnguyen.github.io/Outlier_systems/) | [Repo](https://github.com/buicongnguyen/Outlier_systems) |
 | Systems & Hardware Study Hub | [Open](https://buicongnguyen.github.io/Outlier_hardware/) | [Repo](https://github.com/buicongnguyen/Outlier_hardware) |
 | GPU Kernel Optimization Study Hub | [Open](https://buicongnguyen.github.io/Mercor_cuda/) | [Repo](https://github.com/buicongnguyen/Mercor_cuda) |
-| Interview Practice Q&A (Deep Learning, OS, Embedded, NPU) | [Open](https://buicongnguyen.github.io/interview-practice.html) | [Repo](https://github.com/buicongnguyen/buicongnguyen.github.io) |
-| AI Accelerator & Compiler Study Page (NPU/VPU/LPU, LLVM/MLIR) | [Open](https://buicongnguyen.github.io/npu.html) | [Repo](https://github.com/buicongnguyen/buicongnguyen.github.io) |
+| Interview Practice Q&A (Deep Learning, OS, Embedded, C, Git, NPU) | [Open](https://buicongnguyen.github.io/NPU/interview-practice.html) | [Repo](https://github.com/buicongnguyen/NPU) |
 | LichAm | [Open](https://buicongnguyen.github.io/LichAm/) | [Repo](https://github.com/buicongnguyen/LichAm) |
 | LichAm v2 | [Open](https://buicongnguyen.github.io/LichAm_v2/) | [Repo](https://github.com/buicongnguyen/LichAm_v2) |
 | Giapha | [Open](https://buicongnguyen.github.io/Giapha/) | [Repo](https://github.com/buicongnguyen/Giapha) |
@@ -67,7 +68,7 @@ Versioned projects are listed separately because v1, v2, and v3 are different re
 ## Project Areas
 
 - Robotics and planning: [Isaac Sim Learning Plan](https://github.com/buicongnguyen/isaac-sim-learning-plan), [A* Path Planning Python](https://github.com/buicongnguyen/pathPlanningA_Star_Python)
-- Learning tools: [Study Computer Science v3](https://github.com/buicongnguyen/study_computer_science_v3), [Study Computer Science](https://github.com/buicongnguyen/study_computer_science)
+- Learning tools: [NPU Study Guide](https://github.com/buicongnguyen/NPU), [Study Computer Science v3](https://github.com/buicongnguyen/study_computer_science_v3), [Study Computer Science](https://github.com/buicongnguyen/study_computer_science)
 - Assessment prep: [Software Engineering Study Hub](https://github.com/buicongnguyen/Outlier_coding), [C# & .NET Study Hub](https://github.com/buicongnguyen/Outlier_csharp), [C++ Study Hub](https://github.com/buicongnguyen/Outlier_cpp), [Systems Study Hub](https://github.com/buicongnguyen/Outlier_systems), [Systems & Hardware Study Hub](https://github.com/buicongnguyen/Outlier_hardware), [GPU Kernel Optimization Study Hub](https://github.com/buicongnguyen/Mercor_cuda)
 - Vietnamese apps: [LichAm](https://github.com/buicongnguyen/LichAm), [LichAm v2](https://github.com/buicongnguyen/LichAm_v2), [Giapha](https://github.com/buicongnguyen/Giapha), [Giapha v2](https://github.com/buicongnguyen/Giapha_v2)
 - Browser games: [Operation Iron Vengeance](https://github.com/buicongnguyen/rambo_game), [v2](https://github.com/buicongnguyen/rambo_game_v2), [v3](https://github.com/buicongnguyen/rambo_game_v3), [Sidewalk Iced Tea](https://github.com/buicongnguyen/sidewalk-iced-tea), [v2](https://github.com/buicongnguyen/sidewalk-iced-tea-v2), [v3](https://github.com/buicongnguyen/sidewalk-iced-tea-v3), [SkyDrill2](https://github.com/buicongnguyen/SkyDrill2), [Queens Garden](https://github.com/buicongnguyen/queens-garden)
